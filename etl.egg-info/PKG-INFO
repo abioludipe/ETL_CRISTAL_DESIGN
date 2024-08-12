@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: etl
+Version: 0.0.1
+Summary: Data ETL tool
+Author: Abimbola Oludipe
+Author-email: ao.oludipe@gmail.com
+Requires-Dist: pandas==2.2.2
+Requires-Dist: numpy==1.26.0
+Requires-Dist: logging==0.4.9.6
+Requires-Dist: setuptools==72.1.0
