@@ -16,6 +16,7 @@ def load(clean_data, agg_data):
         pass
     else:
         agg_data.to_csv('./agg_data.csv', index = False)
+        print('Data loaded successfully')
         return agg_data
     
     

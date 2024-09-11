@@ -1,5 +1,6 @@
 # Needed packages/versions
-pandas==2.2.2
-numpy==1.15.4
-logging==0.4.9.6
-setuptools==72.1.0
+pandas
+numpy
+pyarrow
+fastparquet
+# setuptools==72.1.0
